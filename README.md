@@ -33,7 +33,7 @@
 
 <!-- Skills Section -->
 <section id="skills">
-    <h2>Skills</h2>
+    <h2>Skills:</h2>
     <ul>
     <li>HTML5 & CSS</li>
     <li>JavaScript</li>
@@ -44,7 +44,7 @@
 
 <!-- Portfolio Section -->
 ><section id="Portfolio" style="padding: 40px; background-color: #f9f9f9;">
-  <h2 style="font-size: 2em; margin-bottom: 30px;">Catfolio</h2>
+  <h2 style="font-size: 2em; margin-bottom: 30px;">Catfolio:</h2>
 
   <table style="border-collapse: collapse; width: 50%; max-width: 400px;">
     <thead>
@@ -84,7 +84,7 @@
 
 <!-- Contact Section -->
 <section id="Contact📧">
-    <h2>Contact me</h2>  
+    <h2>Contact me:</h2>  
     <p>Feel free to reach out via email or social media!</p>
     <ul>
     <li>Email: <a href="mailto:mokalobalerato@gmail.com">mokalobalerato@gmail.com</a></li>
