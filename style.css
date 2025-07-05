@@ -1,3 +1,37 @@
-.tbody{
-  width: 300px;
+/* Portfolio Section Styling */
+#portfolio {
+  padding: 40px;
+  background-color: #f9f9f9;
+}
+
+#portfolio h2 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 30px;
+}
+
+#portfolio table {
+  width: 100%;
+  border-spacing: 20px;
+  text-align: center;
+}
+
+#portfolio th {
+  font-size: 1.2em;
+  padding-bottom: 10px;
+}
+
+#portfolio td {
+  padding: 20px;
+  vertical-align: middle;
+}
+
+#portfolio img {
+  width: 200px;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+#portfolio img:hover {
+  transform: scale(1.05);
 }
