@@ -54,15 +54,15 @@
     <tbody>
       <tr>
         <td>Purrfect Landing Page</td>
-        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/1.png?raw=true" alt="Thumbnail for Purrfect Landing Page" style="width:100px;"></td>
+        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/1.png?raw=true" alt="Thumbnail for Purrfect Landing Page" style="width:300px;"></td>
       </tr>
       <tr>
         <td>Kitty Commerce</td>
-        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/2.png?raw=true" alt="Thumbnail for Kitty Commerce" style="width:100px;"></td>
+        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/2.png?raw=true" alt="Thumbnail for Kitty Commerce" style="width:300px;"></td>
       </tr>
       <tr>
         <td>CatChat Social</td>
-        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/3.png?raw=true" alt="Thumbnail for CatChat Social" style="width:100px;"></td>
+        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/3.png?raw=true" alt="Thumbnail for CatChat Social" style="width:300px;"></td>
       </tr>
     </tbody>
   </table>
