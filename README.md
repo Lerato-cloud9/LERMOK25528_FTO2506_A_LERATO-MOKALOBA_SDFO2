@@ -42,30 +42,37 @@
 </section>
 
 <!-- Portfolio Section -->
-<section id="Portfolio">
-  <h2>Catfolio</h2>
-  <table>
-     <thead>
-      <tr>
-        <th>Project</th>
-        <th>Thumbnail</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Purrfect Landing Page</td>
-        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/1.png?raw=true" alt="Thumbnail for Purrfect Landing Page" style="width:300px;"></td>
-      </tr>
-      <tr>
-        <td>Kitty Commerce</td>
-        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/2.png?raw=true" alt="Thumbnail for Kitty Commerce" style="width:300px;"></td>
-      </tr>
-      <tr>
-        <td>CatChat Social</td>
-        <td><img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/3.png?raw=true" alt="Thumbnail for CatChat Social" style="width:300px;"></td>
-      </tr>
-    </tbody>
-  </table>
+<section id="portfolio" style="padding: 40px; text-align: center;">
+  <h2 style="font-size: 2em; margin-bottom: 30px;">Catfolio</h2>
+
+  <!-- Horizontal container for projects -->
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+    <!-- Project 1 -->
+    <div style="width: 250px;">
+      <img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/1.png?raw=true" 
+           alt="Thumbnail for Purrfect Landing Page" 
+           style="width: 100%; border-radius: 8px;">
+      <p style="margin-top: 10px; font-weight: bold;">Purrfect Landing Page</p>
+    </div>
+
+    <!-- Project 2 -->
+    <div style="width: 250px;">
+      <img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/2.png?raw=true" 
+           alt="Thumbnail for Kitty Commerce" 
+           style="width: 100%; border-radius: 8px;">
+      <p style="margin-top: 10px; font-weight: bold;">Kitty Commerce</p>
+    </div>
+
+    <!-- Project 3 -->
+    <div style="width: 250px;">
+      <img src="https://github.com/CodeSpace-Academy/SDF02-2025/blob/main/images/3.png?raw=true" 
+           alt="Thumbnail for CatChat Social" 
+           style="width: 100%; border-radius: 8px;">
+      <p style="margin-top: 10px; font-weight: bold;">CatChat Social</p>
+    </div>
+
+  </div>
 </section>
 
 <!-- Contact Section -->
