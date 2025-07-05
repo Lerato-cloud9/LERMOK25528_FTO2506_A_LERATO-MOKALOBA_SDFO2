@@ -43,8 +43,8 @@
 </section>
 
 <!-- Portfolio Section -->
-><section id="Portfolio" style="padding: 40px; background-color: #f9f9f9;">
-  <h2 style="font-size: 2em; margin-bottom: 30px;">Catfolio:</h2>
+<section id="Portfolio" style="padding: 10px; background-color: #ffffff;">
+  <h2>Catfolio:</h2>
 
   <table style="border-collapse: collapse; width: 50%; max-width: 400px;">
     <thead>
